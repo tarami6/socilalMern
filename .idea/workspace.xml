@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb48101b-6214-4bab-bcfb-c5f1d3fc5c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/authActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/postAction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/profileActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/add-credentials/AddEducation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/add-credentials/AddExperience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/InputGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/SelectListGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/Spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/TextAreaFieldGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/common/TextFieldGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/create-profile/CreateProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/ProfileActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/edit-profile/EditProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/not-found/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentFeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/post/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostFeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/posts/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileAbout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileCreds.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileGitHub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profiles/ProfileItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profiles/Profiles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/img/showcase.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/errorReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/postReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/profileReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/setAuthToken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/validation/is-empty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/keys.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
@@ -77,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -139,7 +86,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -220,7 +167,7 @@
             <path>
               <item name="social" type="b2602c69:ProjectViewProjectNode" />
               <item name="social" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="social" type="b2602c69:ProjectViewProjectNode" />
@@ -279,12 +226,12 @@
       <workItem from="1550132228017" duration="51645000" />
       <workItem from="1550390543111" duration="4209000" />
       <workItem from="1550394770900" duration="13181000" />
-      <workItem from="1550472859723" duration="45171000" />
+      <workItem from="1550472859723" duration="46178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120595000" />
+    <option name="totallyTimeSpent" value="121602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -747,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/keys_dev.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -765,6 +705,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
